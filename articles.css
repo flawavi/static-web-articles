@@ -1,0 +1,31 @@
+.article_1 {
+  background-color: orange;
+  font-family: 'Pacifico', cursive;
+  font-size: 10px:;
+  color: white;
+  line-height: 25px;
+  padding: 5px;
+  border: 1px solid blue;
+  border-radius: 2px;
+}
+
+.article_2 {
+  background-color: tomato;
+  font-family: 'Indie Flower', cursive;
+  font-size: 14px;
+  color: lightgreen;
+  line-height: 30px;
+  padding: 10px;
+  border: 2px dotted yellow;
+  border-radius: 30px;
+}
+
+.article_3 {
+  background-color: lightyellow;
+  font-family: 'Inconsolata', monospace;
+  font-size: 16px;
+  color: #551a8b;
+  line-height: 35px;
+  padding: 15px;
+  border-radius: 50%;
+}
